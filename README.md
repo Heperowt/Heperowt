@@ -34,8 +34,8 @@ I love documenting my learning journey and sharing technical insights about cybe
 
 ### 📊 GitHub Stats & Activity
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heperowt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=3" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heperowt&layout=compact&theme=tokyonight&cache_seconds=1800&v=3" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heperowt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=4" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heperowt&layout=compact&theme=tokyonight&cache_seconds=1800&v=4" />
 </p>
 
 ---
