@@ -27,15 +27,15 @@ I love documenting my learning journey and sharing technical insights about cybe
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Specializations:** Cryptography (SSS, OTP), Algorithmic Problem Solving.
+- **Specializations:** CyberSecurity, Cryptography, Algorithmic Problem Solving.
 - **Coursework Highlights:** Data Structures, Automata Theory, Web Fundamentals (JS, HTML, SQL).
 
 ---
 
 ### 📊 GitHub Stats & Activity
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heperowt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heperowt&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heperowt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=3" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heperowt&layout=compact&theme=tokyonight&cache_seconds=1800&v=3" />
 </p>
 
 ---
