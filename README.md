@@ -6,14 +6,9 @@ I am a passionate developer focused on **Cybersecurity**, **Cryptography**, and 
 
 ---
 
-### ✍️ Latest Articles on Medium
+### ✍️ Articles on Medium
 I love documenting my learning journey and sharing technical insights about cybersecurity and cryptography.
 - 📝 [Check out my Medium Profile](https://medium.com/@mahdisaghayi)
-
-**My Featured Articles:**
-- 🔐 [Shamir's Secret Sharing: Explanation, Cryptography, Math, and Scripts](https://medium.com/meetcyber/shamirs-secret-sharing-explanation-cryptography-math-and-scripts-ee80571acdac)
-- 🔑 [One-Time Pad (OTP): The Unbreakable Cipher](https://medium.com/meetcyber/one-time-pad-otp-the-unbreakable-cipher-2ff83731d84f)
-- 🏗️ [Zero Trust Architecture: Why "Trust" is a Taboo Word in Security](https://medium.com/meetcyber/zero-trust-architecture-why-trust-is-a-taboo-word-in-security-nist-sp-800-207-b1d279d614c6)
 
 ---
 
@@ -33,9 +28,10 @@ I love documenting my learning journey and sharing technical insights about cybe
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heperowt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heperowt&layout=compact&theme=tokyonight&cache_seconds=1800&v=4" />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heperowt&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heperowt&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
